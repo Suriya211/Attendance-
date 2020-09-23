@@ -1,0 +1,20 @@
+h1{
+   color: wheat;
+    font-size: 80px;
+}
+div{
+ background-color: plum;
+ margin: 0px 800px 0px 800px;
+color: blue;
+font-weight: bold;
+font-size: 30px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  background: purple;
+text-align: center;
+font-family: ("https://www.1001freefonts.com/d/26635/quark-cheese.zip");
+}
